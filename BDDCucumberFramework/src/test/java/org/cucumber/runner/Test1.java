@@ -1,6 +1,10 @@
 package org.cucumber.runner;
 
-public class Test1 {
+import io.cucumber.testng.AbstractTestNGCucumberTests;
+
+public class Test1 extends AbstractTestNGCucumberTests{
 	
 
+	   
+	
 }
